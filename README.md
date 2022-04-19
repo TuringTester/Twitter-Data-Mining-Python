@@ -1,5 +1,5 @@
 # twitter_data_mining
-Four command-line tools for twitter data mining. 
+Four command-line tools for twitter data mining.
 
 1. scantag.py:
 Author: Soumik Jana soumik.cisco@gmail.com
